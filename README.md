@@ -1,18 +1,31 @@
-### Hi, I'm Tushar! 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Tushar!               
 
-<!--
-**tushar-nath/tushar-nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/tusharnath10/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/tusharnath1999">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:tusharnath10@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.tushar-nath}.${your.tushar-nath})
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushar-nath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### About Me 🚀
+👨‍💻 An Open source and coding enthusiast <br/>
+💻 Interested in Competitive Coding, Web Dev and Cloud Computing <br/>
+🎓 Pursuing B.Tech from Assam Engineering College </br>
+🖥 Passionate about building and developing new things <br />
+
+### My Experiences 🙌
+- [Code for Cause](https://codeforcause.org) Campus Leader for Cause for Cause in Assam Engineering College since Nov 2020.
+- [Wrytin](https://wrytin.com/tusharnath) Content Writer for Wrytin for a month.
+
+### Honors & Awards 🏅
+- Completed 30 quests and 15 skill badges in [Google Qwiklabs](https://www.qwiklabs.com/public_profiles/ec65baca-24c3-4b36-a896-2168e0ceb8f6) in the Google Cloud Facilitator Program 2021
+- 5 star in CPP at [Hackerrank]{https://www.hackerrank.com/tusharnath10}
+
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar-nath&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tushar-nath.tushar-nath)
