@@ -19,12 +19,12 @@
 🖥 Passionate about building and developing new things <br />
 
 ### My Experiences 🙌
-- [Code for Cause](https://codeforcause.org) Campus Leader for Cause for Cause in Assam Engineering College since Nov 2020.
-- [Wrytin](https://wrytin.com/tusharnath) Content Writer for Wrytin for a month.
+- [Code for Cause](https://codeforcause.org) Campus Leader at Assam Engineering College since Nov 2020.
+- [Wrytin](https://wrytin.com/tusharnath) Content Writer for a month.
 
 ### Honors & Awards 🏅
-- Completed 30 quests and 15 skill badges in [Google Qwiklabs](https://www.qwiklabs.com/public_profiles/ec65baca-24c3-4b36-a896-2168e0ceb8f6) in the Google Cloud Facilitator Program 2021
-- 5 star in CPP at [Hackerrank]{https://www.hackerrank.com/tusharnath10}
+- [Google Qwiklabs](https://www.qwiklabs.com/public_profiles/ec65baca-24c3-4b36-a896-2168e0ceb8f6) Completed 30 quests and 15 skill badges in the Google Cloud Facilitator Program 2021
+- [Hackerrank](https://www.hackerrank.com/tusharnath10) ⭐ Gold Badge in CPP 
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar-nath&show_icons=true&hide_border=true)
 <br />
