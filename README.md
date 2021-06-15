@@ -26,8 +26,30 @@
 - [Google Qwiklabs](https://www.qwiklabs.com/public_profiles/ec65baca-24c3-4b36-a896-2168e0ceb8f6) Completed 30 quests and 15 skill badges in the Google Cloud Facilitator Program 2021
 - [Hackerrank](https://www.hackerrank.com/tusharnath10) ⭐ Gold Badge in CPP 
 
-[![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tushar-nath&theme=react-dark)](https://github.com/tushar-nath/github-readme-activity-graph)
+[![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tushar-nath&theme=xcode)](https://github.com/tushar-nath/github-readme-activity-graph)
 
-![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tushar-nath&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tushar-nath.tushar-nath)
+## Technologies ⚡ 
+
+### Language :
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+### Libraries & Framework :
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tushar-nath&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-nath&theme=tokyonight" />
+</p>
