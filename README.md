@@ -13,10 +13,10 @@
 <br />
 
 ## About Me 🚀
-🎓 I am a B.Tech undergraduate in ETE from Assam Engineering College. I enjoy problem-solving (Data Structures and Algorithms) and Backend Development.</br>
+🎓 I am a B.Tech undergraduate in ETE from Assam Engineering College. I enjoy problem-solving and Backend Development.</br>
 👨‍💻 I currently practise at Leetcode and Codeforces and participate in Codeforces contests using C++.<br/>
 💻 I have worked in startups as a Software Developer Intern and built Backend Services and REST API endpoints.<br/>
-🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail or ping me on LinkedIn to connect with me.<br />
+🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail to connect with me.<br />
 
 ## My Experiences 🙌
 - [Code for Cause](https://codeforcause.org) Campus Leader at Assam Engineering College since Nov 2020.
