@@ -19,8 +19,8 @@
 🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail to connect with me.<br />
 
 ## My Experiences 🙌
-- [Code for Cause](https://codeforcause.org) Campus Leader at Assam Engineering College since Nov 2020.
-- [Wrytin](https://wrytin.com/tusharnath) Content Writer for a month.
+- [My Analytics School](https://www.myanalyticsschool.com/) Software Developer Intern (Mar 2022 - Present)
+- [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/) Software Developer Intern (Sep 2021 - Jan 2022 · 5 mos)
 
 ## Honors & Awards 🏅
 - [Google Qwiklabs](https://www.qwiklabs.com/public_profiles/ec65baca-24c3-4b36-a896-2168e0ceb8f6) Completed 30 quests and 15 skill badges in the Google Cloud Facilitator Program 2021
