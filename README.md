@@ -19,7 +19,7 @@
 🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail to connect with me.<br />
 
 ## My Experiences 🙌
-- [My Analytics School](https://www.myanalyticsschool.com/) Software Developer Intern (Mar 2022 - Present)
+- [My Analytics School](https://www.myanalyticsschool.com/) Software Developer Intern (Mar 2022 - April 2022)
 - [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/) Software Developer Intern (Sep 2021 - Jan 2022 · 5 mos)
 
 ## Honors & Awards 🏅
