@@ -1,4 +1,4 @@
-## Hi, I'm Tushar! 
+## Hi, I'm Tushar! 👋
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 
 <a href="https://www.linkedin.com/in/tusharnath10/">
@@ -15,12 +15,13 @@
 
 ## About Me 🚀
 🎓 I am a B.Tech undergraduate in ETE from Assam Engineering College. I enjoy problem-solving and Backend Development.</br>
-👨‍💻 I currently practise at Leetcode and Codeforces and participate in Codeforces contests using C++.<br/>
+👨‍💻 I currently practise at Leetcode and participate in Codeforces contests using C++.<br/>
 💻 I have worked in startups as a Software Developer Intern and built Backend Services and REST API endpoints.<br/>
 🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail to connect with me.<br />
 
 ## My Experiences 🙌
-- [My Analytics School](https://www.myanalyticsschool.com/) Software Developer Intern (Mar 2022 - April 2022)
+- [Curiosify](https://www.linkedin.com/company/curiosify/) Web Development Intern (Mar 2022 - April 2022)
+- [My Analytics School](https://www.linkedin.com/company/my-analytics-school/) Software Developer Intern (Mar 2022 - April 2022)
 - [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/) Software Developer Intern (Sep 2021 - Jan 2022 · 5 mos)
 
 ## Honors & Awards 🏅
