@@ -20,7 +20,7 @@
 🖥 I am interested and open to interviews as an intern in the Software Engineering domain. Drop a mail to connect with me.<br />
 
 ## My Experiences 🙌
-- [Curiosify](https://www.linkedin.com/company/curiosify/) Web Development Intern (Mar 2022 - April 2022)
+- [Curiosify](https://www.linkedin.com/company/curiosify/) Web Development Intern (June 2022 - Ongoing)
 - [My Analytics School](https://www.linkedin.com/company/my-analytics-school/) Software Developer Intern (Mar 2022 - April 2022)
 - [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/) Software Developer Intern (Sep 2021 - Jan 2022 · 5 mos)
 
