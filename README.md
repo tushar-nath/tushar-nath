@@ -18,7 +18,8 @@
 🖥 I am currently open to new job opportunities in the software engineering domain. Please feel free to reach out to me to discuss potential roles.<br />
 
 ## My Experiences 🙌
-- [Matt Young Media](https://www.mattyoungmedia.com/) Software Engineer 1 - Full Time (Dec 2022 - Ongoing)
+- [Gynoveda](https://gynoveda.com/) Software Engineer 1 - Full Time (July 2024 - Ongoing)
+- [Matt Young Media](https://www.mattyoungmedia.com/) Software Engineer 1 - Full Time (Dec 2022 - June 2024)
 - [Curiosify](https://www.linkedin.com/company/curiosify/) Web Development Intern (Jun 2022 - Sep 2022)
 - [My Analytics School](https://www.linkedin.com/company/my-analytics-school/) Software Developer Intern (Mar 2022 - Apr 2022)
 - [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/) Software Developer Intern (Aug 2021 - Jan 2022)
