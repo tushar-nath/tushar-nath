@@ -6,4 +6,4 @@ Previously, I worked at [Matt Young Media](https://www.mattyoungmedia.com/), whe
 
 Earlier in my career, I interned with organizations like [Curiosify](https://www.linkedin.com/company/curiosify/), [My Analytics School](https://www.linkedin.com/company/my-analytics-school/), and [Kunhi Software Incubator](https://www.linkedin.com/company/kunhi-software-incubator/), gaining expertise in building RESTful APIs, designing interfaces from Figma prototypes, and implementing secure authentication systems using ReactJS and Spring Security.
 
-You can learn more about my work through my [LinkedIn](https://linkedin.com/in/tusharnath10), [GitHub](https://github.com/tushar-nath), and [Portfolio](https://tusharnath.framer.website/). 
+You can learn more about my work through my [LinkedIn](https://linkedin.com/in/tusharnath10) and [Portfolio](https://tusharnath.framer.website/). 
